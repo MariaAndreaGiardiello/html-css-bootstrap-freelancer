@@ -105,14 +105,34 @@ a{
 }
 /*------hero------*/
 
-
+/*------portfolio------*/
 .portfolio img {
     width: 100%;
 }
+/*------/portfolio------*/
 
+/*------about------*/
 .about {
     color: #fff;
 }
+
+.btn-white{
+    color: white;
+    border-color: white;
+}
+
+.symbol-smaller{
+    height: 3px;
+    border-radius: 10px;
+    width: 100px;
+}
+/*------/about------*/
+
+/*----contact me----*/
+.btn-send{
+    margin-top: 10px;
+}
+/*----/contact me----*/
 
 /*----------------------
     FOOTER
