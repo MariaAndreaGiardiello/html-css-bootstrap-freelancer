@@ -141,3 +141,31 @@ footer {
     color: #fff;
     text-align: center;
 }
+
+.fa-facebook, .fa-google-plus-g, .fa-twitter, .fa-linkedin-in{
+    font-size: 15px;
+    padding-top: 10px;
+
+}
+
+.circle{
+    width: 35px;
+    height: 35px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 0 3px;
+
+}
+
+.footer-text{
+    font-size: 12px;
+}
+
+.copyright{
+    font-size: 10px;
+}
+
+.footer-link{
+    color: #19BC9C;
+    text-decoration: none;
+}
